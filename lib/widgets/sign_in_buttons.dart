@@ -90,7 +90,7 @@ class _SignInButtonsState extends State<SignInButtons> {
                       _isSigningIn = true;
                     });
                     User? user =
-                        await Authentication.signInWithGoogle(context: context);
+                        await Authentication.signInWithApple(context: context);
 
                     setState(() {
                       _isSigningIn = false;
