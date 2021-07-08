@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754137971637",
+    "firebase_url": "https://papaya-project.firebaseio.com",
+    "project_id": "papaya-project",
+    "storage_bucket": "papaya-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754137971637:android:740e16137d87bbcb08b7fc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754137971637-adac36d8m12crvtue4rig8j20jjq2bio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "a16851d29640d4e92786318ba7e929ed8140d26e"
+          }
+        },
+        {
+          "client_id": "754137971637-g2qfdns1u5p3rpt19fbmm14llf9j4bfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUU_f93RfFSsNd2YA6JFLzdMY9xDeX4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754137971637-g2qfdns1u5p3rpt19fbmm14llf9j4bfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754137971637-8v2e8f2mu9uo2p3m8a3lsn5hi67do963.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login1213"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
